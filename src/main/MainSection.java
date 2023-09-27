@@ -6,7 +6,7 @@ public class MainSection {
 		// TODO Auto-generated method stub
 		System.out.println("git testing...");
 		System.out.println("This is  modified");
-System.out.println("This is  modified");
+System.out.println("This is main modified");
 		
 	}
 
